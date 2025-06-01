@@ -14,6 +14,10 @@
 - **Dev Tools:** IntelliJ IDEA, Visual Studio Code, Postman, Git/GitHub, Android Studio
 
 ---
+## 🌐 Online CV Website
+
+You can explore my modern CV as a web page here:  
+🔗 [https://mihairadu0108.github.io/JAVA---projects](https://mihairadu0108.github.io/JAVA---projects)
 
 ## 📄 My Modern CV
 You can find my up-to-date CV here:  
