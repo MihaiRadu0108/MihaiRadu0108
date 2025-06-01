@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Radu Mihai
 
-<!--
-**MihaiRadu0108/MihaiRadu0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java developer in progress with a strong interest in computer systems, hardware troubleshooting, and software integration.  
+🔧 I love solving technical problems, building clean software, and learning new tools that push me forward.  
+🚀 Currently growing into full-stack development while keeping one foot in IT support and infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Spring Boot, Angular, React, Tailwind, Bootstrap
+- **Databases & Platforms:** MySQL, Node.js, Docker
+- **Dev Tools:** IntelliJ IDEA, Visual Studio Code, Postman, Git/GitHub, Android Studio
+
+---
+
+## 📄 My Modern CV
+You can find my up-to-date CV here:  
+👉 [View CV in this repo](https://github.com/MihaiRadu0108/JAVA---projects/blob/main/Radu_Mihai_CV.pdf)
+
+---
+
+## 🏗️ Projects
+- 🫀 **HeartPal** – Smart heart monitor Android app | JA Romania Winner 🏆  
+- 🛒 **E-Commerce Store** – Responsive shopping platform with user auth & cart  
+- 🔨 More Java and full-stack apps coming soon!
+
+---
