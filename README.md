@@ -17,7 +17,7 @@
 
 ## 📄 My Modern CV
 You can find my up-to-date CV here:  
-👉 [View CV in this repo](https://github.com/MihaiRadu0108/JAVA---projects/blob/main/Radu_Mihai_CV.pdf)
+👉 [View CV in this repo](https://github.com/MihaiRadu0108/JAVA---projects/blob/main/personal-cv-website/Radu%20Mihai%20-%20CV%20-%20FINAL%20(1)%20(1).pdf)
 
 ---
 
